@@ -11,7 +11,7 @@ Este proyecto corresponde a mi tesis de grado en la Universidad Nacional Experim
 ---
 
 ## 📊 Documento del Proyecto
-📂 [Ver tesis y reportes completos en PDF](./Proyecto Universitario.docx)
+📂 [Ver tesis y reportes completos en PDF](IMAGES/.Proyecto Universitario.docx)
 
 ---
 
