@@ -20,7 +20,8 @@ Otros: Documentación técnica y reportes en PDF
 
 
 📄 Documentación
-📎 Ver tesis extractoo de tesis en 
+📎 Ver tesis extracto de tesis en https://github.com/henriquezangie27/university-dashboard/blob/main/IMAGES/Proyecto%20Universitario.docx
+📎 Ver codigo fuente en 
 
 📈 Resultados Obtenidos
 
