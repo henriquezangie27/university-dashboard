@@ -1,30 +1,29 @@
-# 🎓 Proyecto Universitario - Análisis de Datos
+📚 Sistema de Información para Biblioteca - Proyecto Universitario
 
-Este proyecto corresponde a mi tesis de grado en la Universidad Nacional Experimental Simón Rodríguez, donde realicé un análisis de datos académicos y operativos aplicando conceptos de Business Intelligence.
+  Este proyecto fue desarrollado como parte de mi tesis de grado en la Universidad Nacional Experimental Simón Rodríguez. Consiste en un sistema de información para la gestión de bibliotecas, integrando tecnologías web y bases de datos, con enfoque en análisis de datos y visualización para la toma de decisiones, seguiento y control de las transacciones bibliotecarias.
+
+🎯 Objetivo del Proyecto
+
+Diseñar un sistema funcional para la gestión de préstamos, usuarios y libros.
+Aplicar principios de programacion  y business inteligentes para generar metricas clave.
+Desarrollar un ambiente de QA como muestra para mostrar el control y seguiemineto. 
+Presentar reportes visuales que faciliten la toma de decisiones académicas y operativas.
 
 
-## 📌 Objetivo
-- Analizar la información disponible para generar métricas clave.  
-- Proponer *reportes visuales* que faciliten la toma de decisiones.  
-- Presentar resultados mediante *tablas y gráficos*.  
+🧰 Tecnologías Utilizadas
 
----
+Frontend: HTML, CSS, JavaScript
+Backend: PHP, Python
+Base de Datos: MySQL (phpMyAdmin)
+Análisis de Datos: Excel avanzado, herramientas de visualización
+Otros: Documentación técnica y reportes en PDF
 
-## 📊 Documento del Proyecto
-📂 [Ver tesis y reportes completos en PDF](IMAGES/.Proyecto Universitario.docx)
 
----
+📄 Documentación
+📎 Ver tesis extractoo de tesis en 
 
-## 🛠️ Tecnologías Utilizadas
--Pyhton, Html, CSS y Javascripts
-- Excel Avanzado
-- MYSQLPHPMYADMIN (consultas para extracción de datos)  
-- Visualizaciones en herramientas de análisis  
+📈 Resultados Obtenidos
 
----
-
-## ✨ Resultados
-El proyecto permitió:  
-- Mejorar la visualización de información para la toma de decisiones académicas.  
-- Proponer indicadores claves para mejorar el control de calidad en la biblioteca  
-- Porfundizar bases para  el análisis de datos y ambientes QA. 
+Mejora en la visualización de datos para decisiones académicas.
+Propuesta de indicadores clave para el control de calidad en la biblioteca.
+Fortalecimiento de habilidades en análisis de datos y ambientes QA.
